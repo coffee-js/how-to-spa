@@ -1,0 +1,21 @@
+
+body {
+    margin: 0px;
+    font-family: Optima;
+    background: hsl(0, 0%, 77%);
+}
+
+* {
+    box-sizing: border-box;
+}
+
+#doc {
+    width: 1000px;
+    margin: auto;
+    padding: 100px 40px 300px;
+    background: white;
+}
+
+#readme {
+    padding-bottom: 200px;
+}
