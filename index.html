@@ -1,0 +1,27 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Single Pages</title>
+  <meta charset="utf-8" />
+  <script type="text/javascript" src='http://exportsjs.u.qiniudn.com/require.js'></script>
+  <script type="text/javascript" src='http://exportsjs.u.qiniudn.com/marked.js'></script>
+  <script type="text/javascript">
+    require.config({
+      baseUrl: './',
+      map: {
+        exportsjs: 'http://exportsjs.u.qiniudn.com'
+      },
+      paths: {
+        cirru: 'exportsjs/cirru-parser',
+        marked: 'exportsjs/marked',
+        
+      }
+    })
+  require(['src/main'])
+  </script>
+</head>
+<body>
+
+</body>
+</html>
