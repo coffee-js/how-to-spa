@@ -1,10 +1,10 @@
-
 How to build single page applications
 ------
 
 ### Resouces
 
-[Slideshare: Building single page applications](http://www.slideshare.net/rohitsghatol/building-single-page-applications)
+[Slideshare: Building single page applications](http://www.slideshare.net/rohitsghatol/building-single-page-applications)  
+[Speaker Deck: Building Single Page Applications](https://speakerdeck.com/alexanderbeletsky/building-single-page-applications)
 
 ### About
 
