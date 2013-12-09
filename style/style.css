@@ -2,18 +2,65 @@
 body {
     margin: 0px;
     font-family: Optima;
-    background: hsl(0, 0%, 77%);
+    background: hsl(0, 0%, 91%);
 }
 
 * {
     box-sizing: border-box;
 }
 
+h2 {
+    font-size: 30px;
+    margin: 60px 0;
+    text-align: center;
+}
+
+h3 {
+    margin: 50px 0;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    color: hsl(0, 0%, 61%);
+}
+
+li a {
+    font-size: 18px;
+    line-height: 30px;
+    margin-right: 40px;
+}
+
+a:before {
+    content: '➦';
+    color: hsl(223, 100%, 83%);
+    margin-right: 10px;
+}
+
+hr {
+    margin: 100px 0;
+    height: 1px;
+    border: none;
+    background-color: hsl(0, 0%, 92%);
+}
+
 #doc {
     width: 1000px;
     margin: auto;
-    padding: 100px 40px 300px;
+    padding: 100px 40px 0;
     background: white;
+    box-shadow: 0 0 18px 2px hsla(0, 0%, 0%, 0.26);
+}
+
+p {
+    line-height: 30px;
+    font-size: 19px;
 }
 
 #readme {
