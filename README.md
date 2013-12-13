@@ -1,4 +1,3 @@
-
 How to build Single Page Applications
 ------
 
@@ -27,6 +26,7 @@ Page here http://coffee-js.github.io/how-to-spa/
 ### MV*
 
 * [前端 MV* 框架的意义](http://blog.xufei.gitpress.org/~posts/2013-10-22-前端MV☆框架的意义.md) ✍ 徐飞
+* [Backbone Antipatterns](http://blog.shinetech.com/2013/11/26/backbone-antipatterns/) ✍ Ben Teese
 
 ### Module system
 
