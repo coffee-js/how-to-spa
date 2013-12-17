@@ -10,6 +10,7 @@ Page here http://coffee-js.github.io/how-to-spa/
 ### Blog
 
 * [Important Considerations When Building Single Page Web Apps](http://net.tutsplus.com/tutorials/javascript-ajax/important-considerations-when-building-single-page-web-apps/) ✍ Pavan Podila
+* [Complex Single Page Application Architecture with Backbone](http://blog.soom.la/2013/10/complex-single-page-application.html#.UrAdFWTN81c) ✍ Gur Dotan
 
 ### Oneline Book
 
